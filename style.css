@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 22px;
+}
+
+#start , #objectsnum , #status{
+    font-size: 20px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: aliceblue;
+    color: black;
+}
+
+canvas{
+    border: 3px solid whitesmoke;
+    margin-top: 70;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+.head2{
+    font-size: 15px;
+    color: black;
+}
+
+#input_1{
+    width: 40%;
+}
